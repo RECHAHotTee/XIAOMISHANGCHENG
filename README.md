@@ -1,0 +1,2 @@
+# XIAOMISHANGCHENG
+Vue2 开发的小米商城
